@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 Git is attrbuild systerm.
 
 Creating a new branch is quick.
+Git is simple and easy。
